@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"font_size": 17,
+	"ignored_packages":
+	[
+		"Clipboard Manager",
+		"SublimeLinter-csslint",
+		"Vintage"
+	]
+}

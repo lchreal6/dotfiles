@@ -1,0 +1,59 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="log.debug.categories" value="" />
+    <property name="evlsprt3.10.0" value="11" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="1" />
+    <property name="WebStorm.inlineDebuggerEnabled" value="true" />
+    <property name="WebStorm.lineNumbersEnabled" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="true" />
+    <property name="DARTIUM_CHECKED_MODE_INITIALLY_ENABLED" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="WebStorm.dumbRunEnabled" value="true" />
+    <property name="file.chooser.recent.files" value="F:/startbootstrap-creative-gh-pages&#10;C:/Users/Administrator/Desktop/ZR/ZR&#10;C:/Users/Administrator/Desktop/express-http-proxy/express-http-proxy/public/www.zfrunds.com.cn&#10;C:/Users/Administrator/Desktop/b&#10;C:/Users/Administrator/Desktop/express-http-proxy/express-http-proxy&#10;C:/Users/Administrator/Desktop/www.zfrunds.com.cn&#10;C:/Users/Administrator/Desktop/ZR&#10;F:/新建文件夹 (3)/www.zfrunds.com.cn/www.zfrunds.com.cn&#10;F:/新建文件夹/www.zfrunds.com.cn&#10;C:/Users/Administrator/Desktop/www.zfrunds.com.cn/www.zfrunds.com.cn&#10;F:/webstrom设置包&#10;F:/BrowsersyncExample&#10;C:/Users/Administrator/Desktop/小demo&#10;C:/Users/Administrator/Desktop/Monokai Sublime Text 3.jar.zip&#10;C:/Users/Administrator/Desktop/Monokai Sublime Text 3.jar&#10;C:/Users/Administrator/Desktop/bootstrap教程&#10;C:/Users/Administrator/Desktop/前端/锋利的jquery码源/demo/flE-AjaxXML/demo.html&#10;C:/Users/Administrator/Desktop/前端/锋利的jquery码源/demo/flE-AjaxXML&#10;C:/Users/Administrator/Desktop/新建文件夹&#10;C:/Users/Administrator/Desktop/新建文件夹/aaaaa.html" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="selected.color.option.type" value="SELECTION_FOREGROUND" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Monokai" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ColorChooser.RecentColors" value="0-131-0-255,,,0-14-131-255,,,122-131-0-255,,,0-131-100-255,,,83-0-131-255,,,131-0-33-255,,,0-135-208-255,,,0-168-243-255,,,255-134-0-255,,,214-214-214-255,,,240-244-0-255,,,205-209-0-255,,,0-194-75-255,,,217-109-0-255,,,237-126-0-255,,,224-0-182-255,,,0-224-177-255,,,75-110-175-255,,,233-38-53-255,,,241-241-241-255" />
+    <property name="KEYMAP" value="javas&#10;style&#10;new&#10;new html&#10;new file" />
+    <property name="PLUGIN_FILTER" value="" />
+    <property name="HbDisableAutoGenerateCloseTag" value="enabled" />
+    <property name="HbAutocompleteMustaches" value="enabled" />
+    <property name="HbFormatter" value="enabled" />
+    <property name="HbCommenterLanguageId" value="HTML" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="20" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="0" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="1" />
+    <property name="export.settings.path" value="F:\webstrom设置包\settings.jar" />
+    <property name="Copy.OpenInEditor" value="true" />
+  </component>
+</application>

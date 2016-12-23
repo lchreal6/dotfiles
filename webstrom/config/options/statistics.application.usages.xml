@@ -1,0 +1,161 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="JSDebugConfig">
+      <project id="c.html" values="browser-default.preferredEngine-null.no_mappings" collectionTime="1461676485024" />
+      <project id="ZR" values="browser-default.preferredBrowser-null.no_mappings,browser-default.preferredBrowser-null.no_mappings,browser-default.preferredBrowser-null.no_mappings,browser-default.preferredBrowser-null.no_mappings,browser-default.preferredBrowser-null.no_mappings" collectionTime="1482289523742" />
+      <project id="小demo" values="browser-default.preferredBrowser-null.no_mappings,browser-default.preferredBrowser-null.no_mappings" collectionTime="1481108768966" />
+      <project id="新建文件夹" values="browser-default.preferredBrowser-null.no_mappings" collectionTime="1481093916494" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="前端" values="ECMAScript 5.1" collectionTime="1480994948293" />
+      <project id="BrowsersyncExample" values="ECMAScript 5.1" collectionTime="1481104436420" />
+      <project id="小demo" values="ECMAScript 5.1" collectionTime="1481108768965" />
+      <project id="www.zfrunds.com.cn" values="ECMAScript 5.1" collectionTime="1481537882123" />
+      <project id="新建文件夹" values="ECMAScript 5.1" collectionTime="1481093916462" />
+      <project id="basic.css" values="DEFAULT" collectionTime="1464079460960" />
+      <project id="express-http-proxy" values="ECMAScript 5.1" collectionTime="1481191687243" />
+      <project id="b" values="ECMAScript 5.1" collectionTime="1481192522319" />
+      <project id="ZR" values="ECMAScript 5.1" collectionTime="1482289523405" />
+      <project id="c.html" values="DEFAULT" collectionTime="1461676485024" />
+      <project id="flE-AjaxXML" values="ECMAScript 5.1" collectionTime="1480994516564" />
+      <project id="untitled2" values="ECMAScript 5.1" collectionTime="1482289566325" />
+      <project id="untitled1" values="ECMAScript 5.1" collectionTime="1480994886573" />
+      <project id="bootstrap教程" values="ECMAScript 5.1" collectionTime="1480994894417" />
+      <project id="cards_1.js" values="DEFAULT" collectionTime="1462440349828" />
+      <project id="untitled" values="DEFAULT" collectionTime="1461226407408" />
+    </group>
+    <group name="module type">
+      <project id="前端" values="WEB_MODULE" collectionTime="1480994948290" />
+      <project id="BrowsersyncExample" values="WEB_MODULE" collectionTime="1481104436410" />
+      <project id="小demo" values="WEB_MODULE" collectionTime="1481108768891" />
+      <project id="www.zfrunds.com.cn" values="WEB_MODULE" collectionTime="1481537878787" />
+      <project id="新建文件夹" values="WEB_MODULE" collectionTime="1481093915613" />
+      <project id="basic.css" values="WEB_MODULE" collectionTime="1464079460105" />
+      <project id="express-http-proxy" values="WEB_MODULE" collectionTime="1481191687210" />
+      <project id="b" values="WEB_MODULE" collectionTime="1481192522230" />
+      <project id="ZR" values="WEB_MODULE" collectionTime="1482289519535" />
+      <project id="c.html" values="WEB_MODULE" collectionTime="1461676484962" />
+      <project id="flE-AjaxXML" values="WEB_MODULE" collectionTime="1480994516556" />
+      <project id="untitled2" values="WEB_MODULE" collectionTime="1482289566303" />
+      <project id="untitled1" values="WEB_MODULE" collectionTime="1480994886570" />
+      <project id="bootstrap教程" values="WEB_MODULE" collectionTime="1480994894416" />
+      <project id="cards_1.js" values="WEB_MODULE" collectionTime="1462440348923" />
+      <project id="untitled" values="WEB_MODULE" collectionTime="1461226407383" />
+    </group>
+    <group name="vcs">
+      <project id="express-http-proxy" values="Git" collectionTime="1481191687210" />
+      <project id="小demo" values="Git" collectionTime="1481108768891" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="express-http-proxy" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1481191687211" />
+      <project id="小demo" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1481108768956" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="ZR" values="JavascriptDebugType" collectionTime="1482289519536" />
+      <project id="c.html" values="JavascriptDebugType" collectionTime="1461676484978" />
+      <project id="小demo" values="JavascriptDebugType" collectionTime="1481108768892" />
+      <project id="新建文件夹" values="JavascriptDebugType" collectionTime="1481093915613" />
+      <project id="express-http-proxy" values="NodeJSConfigurationType" collectionTime="1481191687210" />
+    </group>
+    <group name="file-type">
+      <project id="前端" values="JSP,CSS,HTML,JavaScript,PLAIN_TEXT,ASP,IDEA_MODULE,JSHint,UNKNOWN,SQL,Less,Images,SourceMap,Native,JSON,XML,ARCHIVE" collectionTime="1480994948291" />
+      <project id="BrowsersyncExample" values="HTML,CSS" collectionTime="1481104436419" />
+      <project id="小demo" values="CSS,HTML,UNKNOWN,JavaScript,Images" collectionTime="1481108768892" />
+      <project id="www.zfrunds.com.cn" values="UNKNOWN,JavaScript,ARCHIVE,CSS,PLAIN_TEXT,HTML,XML,Images,IDEA_MODULE,JSON" collectionTime="1481537879112" />
+      <project id="新建文件夹" values="JavaScript,Images,CSS,HTML" collectionTime="1481093915624" />
+      <project id="basic.css" values="UNKNOWN,CSS" collectionTime="1464079460195" />
+      <project id="express-http-proxy" values="Jade,IDEA_MODULE,XML,ARCHIVE,UNKNOWN,HTML,JSON,JavaScript,CSS,Images,PLAIN_TEXT" collectionTime="1481191687211" />
+      <project id="b" values="JSON,CSS,PLAIN_TEXT,JavaScript,Images,XML,HTML,UNKNOWN" collectionTime="1481192522244" />
+      <project id="ZR" values="Images,ARCHIVE,JavaScript,HTML,CSS,PLAIN_TEXT" collectionTime="1482289519677" />
+      <project id="c.html" values="HTML,UNKNOWN" collectionTime="1461676484993" />
+      <project id="flE-AjaxXML" values="XML,HTML" collectionTime="1480994516560" />
+      <project id="untitled2" values="HTML" collectionTime="1482289566324" />
+      <project id="untitled1" values="HTML" collectionTime="1480994886571" />
+      <project id="bootstrap教程" values="JavaScript,XML,Native,PLAIN_TEXT,Images,CSS,UNKNOWN,ARCHIVE,HTML" collectionTime="1480994894417" />
+      <project id="cards_1.js" values="UNKNOWN,JavaScript" collectionTime="1462440349048" />
+      <project id="untitled" values="XML,Images,JSCS,HTML,YAML,JSON,JSHint,JavaScript,UNKNOWN,PLAIN_TEXT,CSS" collectionTime="1461226407389" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="前端" values="Directory,Project,Project" collectionTime="1480994948293" />
+      <project id="BrowsersyncExample" values="Project,Project" collectionTime="1481104436420" />
+      <project id="小demo" values="Project,Project" collectionTime="1481108768965" />
+      <project id="www.zfrunds.com.cn" values="Project,Project" collectionTime="1481537882123" />
+      <project id="新建文件夹" values="Project,Project" collectionTime="1481093916462" />
+      <project id="basic.css" values="Project,Project" collectionTime="1464079460960" />
+      <project id="express-http-proxy" values="Project,Project,Directory" collectionTime="1481191687243" />
+      <project id="b" values="Project,Project" collectionTime="1481192522319" />
+      <project id="ZR" values="Project,Project" collectionTime="1482289523405" />
+      <project id="c.html" values="Project,Project" collectionTime="1461676485024" />
+      <project id="flE-AjaxXML" values="Project,Project" collectionTime="1480994516564" />
+      <project id="untitled2" values="Project,Project" collectionTime="1482289566325" />
+      <project id="untitled1" values="Project,Project" collectionTime="1480994886573" />
+      <project id="bootstrap教程" values="Project,Project" collectionTime="1480994894417" />
+      <project id="cards_1.js" values="Project,Project" collectionTime="1462440349828" />
+      <project id="untitled" values="Project,Project" collectionTime="1461226407408" />
+    </group>
+    <group name="Git">
+      <project id="bootstrap教程" values="config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1480994894417" />
+      <project id="BrowsersyncExample" values="config.push.autoupdate.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled" collectionTime="1481104436420" />
+      <project id="b" values="config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.force.push.enabled,config.ssh.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled" collectionTime="1481192522244" />
+      <project id="untitled1" values="config.force.push.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.push.autoupdate.disabled" collectionTime="1480994886572" />
+      <project id="untitled2" values="config.ssh.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled" collectionTime="1482289566324" />
+      <project id="www.zfrunds.com.cn" values="config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled" collectionTime="1481537879192" />
+      <project id="flE-AjaxXML" values="config.warn.about.crlf.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.detached.enabled,config.ssh.enabled,config.push.update.all.roots.enabled" collectionTime="1480994516560" />
+      <project id="小demo" values="config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.0,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,data.remotes.in.project.0,config.warn.about.crlf.enabled,config.force.push.enabled,data.local.branches.count.1,config.ssh.enabled" collectionTime="1481108768964" />
+      <project id="express-http-proxy" values="config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.push.update.all.roots.enabled,data.local.branches.count.1,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.force.push.enabled,data.remote.branches.count.1,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH" collectionTime="1481191687243" />
+      <project id="前端" values="config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.ssh.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled" collectionTime="1480994948291" />
+      <project id="ZR" values="config.warn.about.detached.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled" collectionTime="1482289519770" />
+      <project id="新建文件夹" values="config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.save.policy.STASH" collectionTime="1481093915625" />
+    </group>
+    <group name="images.ide.background">
+      <project id="bootstrap教程" values="frame 0,editor 0" collectionTime="1480994894417" />
+      <project id="BrowsersyncExample" values="editor 0,frame 0" collectionTime="1481104436420" />
+      <project id="b" values="editor 0,frame 0" collectionTime="1481192522244" />
+      <project id="untitled1" values="frame 0,editor 0" collectionTime="1480994886571" />
+      <project id="untitled2" values="editor=0,frame=0" collectionTime="1482289566324" />
+      <project id="www.zfrunds.com.cn" values="frame 0,editor 0" collectionTime="1481537879112" />
+      <project id="flE-AjaxXML" values="editor 0,frame 0" collectionTime="1480994516560" />
+      <project id="小demo" values="frame 0,editor 0" collectionTime="1481108768956" />
+      <project id="express-http-proxy" values="frame 0,editor 0" collectionTime="1481191687211" />
+      <project id="前端" values="frame 0,editor 0" collectionTime="1480994948291" />
+      <project id="ZR" values="frame=0,editor=0" collectionTime="1482289519677" />
+      <project id="新建文件夹" values="editor 0,frame 0" collectionTime="1481093915624" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="AbstractNewProjectStep.Empty Project" count="2" />
+      <entry feature="CreateFile.CreateFileAction" count="1" />
+      <entry feature="JSDebugConfig.Debug.browser-default.preferredBrowser-null.no_mappings" count="56" />
+      <entry feature="JSDebugConfig.Run.browser-default.preferredBrowser-null.no_mappings" count="22" />
+      <entry feature="JSDebugConfig.运行.browser-default.preferredEngine-null.no_mappings" count="2" />
+      <entry feature="NewDirectoryProjectAction.HTML5 Boilerplate" count="1" />
+      <entry feature="OpenInBrowser.Chrome" count="108" />
+      <entry feature="OpenInBrowser.Internet Explorer" count="1" />
+      <entry feature="OpenInBrowser.Opera" count="1" />
+      <entry feature="OpenInBrowser.Safari" count="2" />
+      <entry feature="StripeButton[Version Control].shown" count="1" />
+      <entry feature="execute.JavascriptDebugType.Debug" count="56" />
+      <entry feature="execute.JavascriptDebugType.Run" count="22" />
+      <entry feature="execute.JavascriptDebugType.运行" count="2" />
+      <entry feature="execute.NodeJSConfigurationType.Run" count="1" />
+      <entry feature="ide.help.find.todoList" count="1" />
+      <entry feature="ide.help.top" count="1" />
+      <entry feature="ide.settings.Appearance" count="3" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="3" />
+      <entry feature="ide.settings.Console_Font" count="1" />
+      <entry feature="ide.settings.Debugger" count="5" />
+      <entry feature="ide.settings.Font" count="8" />
+      <entry feature="ide.settings.General" count="1" />
+      <entry feature="ide.settings.HTML" count="1" />
+      <entry feature="ide.settings.JavaScript" count="18" />
+      <entry feature="ide.settings.Keymap" count="8" />
+      <entry feature="ideaapp.started" count="29" />
+      <entry feature="terminal.win" count="4" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="6" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="3" />
+      <entry feature="welcome.screen.null" count="2" />
+    </counts>
+  </component>
+</application>
